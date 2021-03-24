@@ -55,7 +55,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 main.py:34: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <tuple_iterator object at 0x7fc570ff8460>
+.0 = <tuple_iterator object at 0x7f829a2f4d30>
 
 >   moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 E   TypeError: 'bool' object is not iterable
@@ -107,7 +107,7 @@ main.py:34: in <module>
     moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <tuple_iterator object at 0x7fc57109a910>
+.0 = <tuple_iterator object at 0x7f829a2f39d0>
 
 >   moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 E   TypeError: 'bool' object is not iterable
@@ -167,7 +167,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 main.py:34: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <tuple_iterator object at 0x7fc5710d0220>
+.0 = <tuple_iterator object at 0x7f829a2d4070>
 
 >   moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 E   TypeError: 'bool' object is not iterable
@@ -204,7 +204,7 @@ main.py:34: in <module>
     moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <tuple_iterator object at 0x7fc57109b070>
+.0 = <tuple_iterator object at 0x7f829a2f4b20>
 
 >   moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 E   TypeError: 'bool' object is not iterable
@@ -229,7 +229,7 @@ main.py:34: in <module>
     moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <tuple_iterator object at 0x7fc57107b6d0>
+.0 = <tuple_iterator object at 0x7f829a2d82b0>
 
 >   moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 E   TypeError: 'bool' object is not iterable
@@ -289,7 +289,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 main.py:34: 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-.0 = <tuple_iterator object at 0x7fc571099850>
+.0 = <tuple_iterator object at 0x7f829a2e53a0>
 
 >   moyenne_tuples = [(x,y) for x in ['eleve1','eleve2'] for y in ['math','physique','eco'] in notes]
 E   TypeError: 'bool' object is not iterable
